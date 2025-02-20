@@ -4,7 +4,7 @@
 
 
 
-# Correlation analysis  
+# Correlation Analysis  
 1. Scatter plot
 2. modele selection
 3. Variables
