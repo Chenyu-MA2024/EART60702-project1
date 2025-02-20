@@ -1,8 +1,6 @@
-#Project Refletion  
-
-**Not finished yet...**  
+# Project Reflection
 ------------------------------------
-
+**Not finished yet...**  
 
 
 
