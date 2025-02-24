@@ -7,11 +7,11 @@ Chenyu Ma
 Madeleine Carnell  
 Wanglu Yu 
 
-Repository Structure: 
-Code/
+Repository Structure:   
+Code:
 Contains the project’s source code for data processing, analysis, and modeling.
 
-Docs/
+Docs:
 Includes documentation for variable definitions, meeting notes, and other project-related records.
 
 Project_Presentation.ppt (or similar)
