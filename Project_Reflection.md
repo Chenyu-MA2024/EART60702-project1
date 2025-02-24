@@ -6,7 +6,12 @@
 # 1
 
 
-# 2
+# 2 Pre-processing
+The data preprocessing phase prioritised ensuring data integrity by confirming the absence of missing or duplicate values, correcting inaccuracies, and interpolating negative precipitation and snowfall values. Temperature was converted from Kelvin to Celsius, and longitude was adjusted from a 360-degree format to -180 to 180 degrees, identifying Manchester as the dataset's location. Time attributes were expanded to facilitate seasonal analysis. Additionally, variable names were altered for ease of interpretation for non-experts as this type of data is common to present to governments and other organizations for climate mitigation strategies. 
+
+A comparison with the CHESS Regional Climate Model (RCM) from the UK Centre for Ecology & Hydrology (CEH) revealed similar temperature trends. Both project a 3°C increase. The CHESS dataset uses moderate climate scenarios with no climate change mitigation, which could mean our data presents a similar scenario. This consistency suggests analogous preprocessing methodologies, though further validation is necessary.
+
+An important insight emerged regarding the misinterpretation of the QBOT variable, initially assumed to represent humidity but actually denoting water vapour. This highlights the importance of rigorously verifying dataset definitions and incorporating domain-specific expertise to enhance analytical accuracy. The preprocessing efforts established a robust foundation for subsequent analysis, ensuring data consistency and reliability. The alignment with CHESS findings reinforces the validity of the approach while identifying areas for further investigation into climate projections.
 
 
 # 3 Correlation Analysis  
