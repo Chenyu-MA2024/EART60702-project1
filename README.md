@@ -1,13 +1,13 @@
 # EART60702-project1  
 **This is a repository for course EART60702 Project1**  
 
-Group member:   
+#Group member:   
 Cameron Meekums-Spence  
 Chenyu Ma  
 Madeleine Carnell  
 Wanglu Yu 
 
-Repository Structure:   
+#Repository Structure:   
 Code:
 Contains the project’s source code for data processing, analysis, and modeling.
 
