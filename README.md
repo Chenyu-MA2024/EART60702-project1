@@ -14,7 +14,7 @@ Contains the project’s source code for data processing, analysis, and modeling
 ### Docs:
 Includes documentation for variable definitions, meeting notes, and other project-related records.
 
-### Project_Presentation.ppt (or similar)
+### Project_Presentation.ppt
 The presentation slides for the project.
 
 ### Project_Reflection.md
