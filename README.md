@@ -1,5 +1,5 @@
 # EART60702-project1  
-**This is a repository for course EART60702 Project1**  
+**This is a repository for course EART60702 Project1 Group 3**  
 
 ## Group member:   
 Cameron Meekums-Spence  
