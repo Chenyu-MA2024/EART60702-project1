@@ -3,7 +3,21 @@
 
 
 
-# 1
+# 1 EDA - Cameron Meekums-Spence
+In this project, we were given a dataset that contained geographic data across several variables, including temperature, precipitation, wind speed, coordinates, radiation and solar flux. All data was confined to one individual location near Manchester, UK. The data spanned from 2006 to 2080, with the variables modelled into the future. We were asked to provide a presentation in our groups on the dataset. The guidance for this project was minimal, meaning we had to use our initiative to steer the project and provide an outcome.
+
+I decided to take some initiative in the organisation of this project and arranged our first meeting, completing an initial EDA before the meeting and sending it to the group, giving everyone a chance to digest beforehand. This allowed us to discuss any initial impressions and delegate tasks effectively.
+
+The EDA relied on pandas and seaborn packages to visualise the data, whilst the ‘time’ column in the data was converted to datetime format to aid the timeseries plots Initially. I produced some summary statistics and searched for any missing values, establishing that there were none. Several graphs were produced for all variables, including monthly boxplots, distribution graphs and timeseries line graphs. Extreme weather analysis also highlighted any data in the top 5th percentile.
+
+The main trends highlighted by the EDA were that there was more variation in solar flux during Spring and Summer months, temperature was increasing over time by approximately 3 degrees Celsius and that extreme weather would increase in the future. Extreme heat (>25 degrees Celsius) became greater and more frequent, whilst extreme precipitation showed much higher spikes.
+
+Some main challenges included establishing variables, namely PRSN which wasn’t provided initially. We were required to research this and establish the variable meaning ourselves. I looked at several online sources, eventually settling on snowfall precipitation rate, as this seemed most appropriate. Another option was snowfall flux, but I didn’t feel it was appropriate here. Some data-conversion was also required to establish the geographical coordinate which was done in the later preprocessing stage. I tried to establish the geographical coordinate for the data but was unable to. Thankfully, another member of the team established the requirement for conversion and after this I was able to plot the point on an overlay of a UK map.
+
+On reflection, the EDA provided good context for the project, but several analyses didn’t provide much insight. In future, more EDA could be done after pre-processing of the data to establish any trends which may not be apparent whilst analysing the raw data. This could be done by standardising or normalising the data or removing noise from the dataset to provide a clearer picture of the data.
+
+Overall, I feel like I gave a good contribution to the project from an administrative and technical perspective, showing strong organisational and good teamwork skills. In future, I feel that more quality assurance of each other’s work could help to elevate the output. Our presentation focused on a Pearson correlation between variables, whereas Spearman’s Rank may have been more appropriate, due to the dataset’s nonlinearity. However, I feel that the overarching quality of the work provided by our group was of a decent standard.
+
 
 
 # 2 Pre-processing
