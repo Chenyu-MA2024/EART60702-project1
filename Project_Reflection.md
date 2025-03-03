@@ -33,7 +33,7 @@ This analysis employed correlation and linear regression to explore the relation
 
 In the univariate linear regression, QBOT explained a substantial portion of temperature variation (R² = 0.768), compared to shortwave radiation (R² = 0.367). However, the scatter plots revealed a curved, nonlinear relationship between temperature and QBOT, implying that the association might be better captured using Spearman correlation or other nonlinear modeling techniques rather than a simple linear model. Moreover, the multivariate regression, which included Shortwave radiation and QBOT, increased the explained temperature variance to 93%, with low multicollinearity as indicated by VIF values near 1.  
 
-Throughout this project, I think my contribution to this project is good. I established the GitHub repository and maintained effective communication with team members to coordinate data processing and model selection. I also played a key role in visualization of data. In summary, 
+Throughout this project, I think my contribution to this project is good. I established the GitHub repository and maintained effective communication with team members to coordinate data processing and model selection. I also played a key role in visualization of data. In summary, this experience has hightlighted several challenges, notably the interpretation of QBOT, the selection of an appropriate modeling strategy for a nonlinear relationship, and ensuring that our analysis aligns with established meteorological principles.
 
 
 
